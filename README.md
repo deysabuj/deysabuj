@@ -1,5 +1,5 @@
 ## Hi there 👋, Myself Sabuj Dey
-A Tech Enthusiast with a creative Eye.
+A Tech Enthusiast with a Creative Eye.
 
 <!--
 **deysabuj/deysabuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
